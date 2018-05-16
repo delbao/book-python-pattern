@@ -11,7 +11,7 @@ A `class method` is defined in the class scope and decorated by **@classmethod**
 - It can access class member
 
 A `static method` is decorated by **@staticmethod**
-- It has neither self nor cls as an argument
+- It has neither `self` nor `cls` as an argument
 
 ## When to Use Class Methods
 
