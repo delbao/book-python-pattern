@@ -32,6 +32,6 @@ factory methods ensures correct instance creation in derived class.
 
 ## When to Use Static Methods
 
-Flagging a method as a static method is a hint that a class won't modify class or instance state. This restriction is enforced by the python runtime.
+Flagging a method as a static method is a hint that the method won't modify class or instance state. This restriction is enforced by the python runtime.
 
 This restriction also makes writing unit test easy: setting up a class state is no longer needed.
