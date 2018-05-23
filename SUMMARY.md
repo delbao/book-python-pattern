@@ -1,5 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [types of methods ](chapter1.md)
+* [instance, class, static methods ](chapter1.md)
+* [properties and attributes](properties-and-attributes.md)
 
